@@ -1,4 +1,5 @@
 # AmazonCLone
+# Ecommerce
 
 Experience a seamless shopping platform with my Amazon clone. Explore a vast product catalog, enjoy easy checkout, and personalized recommendations. Shop smart, shop with convenience.
 
